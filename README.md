@@ -52,7 +52,7 @@ Incluye:
 
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/tu-usuario/gestion-cine-db.git
+git clone https://github.com/AlejoUziel/BD-CINE-UTH
 cd gestion-cine-db
 
 
